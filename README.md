@@ -1,3 +1,7 @@
+# GOOGLE DOCS LINK
+
+https://docs.google.com/document/d/1rDHtp7gqdsGC800hI7_yfF2fl1HVyIgZ_4uamf8K0Y8/edit?usp=sharing
+
 # Pacman
 #### Technologies: Visual Studio, C#, NUnit
 
